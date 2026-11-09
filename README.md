@@ -44,7 +44,9 @@ Project Files
 
 - "Sales_Performance_Dashboard.pbix" – Power BI dashboard file.
 - Dashboard Screenshot – Visual representation of the final dashboard.
+## Dashboard Preview
 
+![Sales Performance Dashboard](Screenshot%202026-11-09%20093410.png)
 ## Author
 
 **Fiza Parveen**
